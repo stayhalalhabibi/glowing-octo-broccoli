@@ -2,7 +2,7 @@
 
 ## Answers
 
-1. 
+1.  (B) <article>
 2.  (B) alt 
 3.  (c) email 
 4.  (B) video
