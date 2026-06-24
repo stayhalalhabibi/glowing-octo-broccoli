@@ -2,18 +2,18 @@
 
 ## Answers
 
-1.  (B) <article>
+1.  (B) article
 2.  (B) alt 
 3.  (c) email 
 4.  (B) video
 5.  (B) To associate descriptive text with a form control
 6.  (B) required
-7.  (A) <nav>
+7.  (A) nav
 8.  (B) Displays temporary hint text
-9.  (A) <body>
-10. (C) <source>
+9.  (A) body
+10. (C) source
 11. (C) date
-12. (A) <canvas>
+12. (A) canvas
 13. (A) target="_blank"
 14. (B) padding
 15. (B) div > p
