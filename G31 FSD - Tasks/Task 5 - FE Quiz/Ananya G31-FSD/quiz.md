@@ -1,10 +1,10 @@
 # HTML5 | CSS3 | Bootstrap | Bulma CSS Quiz 
 
 ## 1. Which HTML5 element is most appropriate for representing self-contained content that could be independently distributed, such as a blog post?
-A. <section>
-B. <article>
-C. <aside>
-D. <main>
+A. `<section>`
+B. `<article>`
+C.`<aside>`
+D. `<main>`
 
 **Answer: B**
 
@@ -25,10 +25,10 @@ D. url
 **Answer: C**
 
 ## 4. Which element is used to embed playable video content directly in a web page?
-A. <media>
-B. <video>
-C. <movie>
-D. <source>
+A. `<media>`
+B.` <video>`
+C. `<movie>`
+D. `<source>`
 
 **Answer: B**
 
@@ -49,10 +49,10 @@ D. checked
 **Answer: B**
 
 ## 7. Which element is best suited for site navigation links?
-A. <nav>
-B. <menuitem>
-C. <links>
-D. <aside>
+A. `<nav>`
+B. `<menuitem>`
+C. `<links>`
+D. `<aside>`
 
 **Answer: A**
 
@@ -65,18 +65,18 @@ D. Sets the input label
 **Answer: B**
 
 ## 9. Which element represents the main unique content of a page?
-A. <body>
-B. <main>
-C. <section>
-D. <div>
+A. `<body>`
+B. `<main>`
+C. `<section>`
+D. `<div>`
 
 **Answer: B**
 
 ## 10. Which tag is used inside <audio> or <video> to specify multiple media file options?
-A. <track>
-B. <option>
-C. <source>
-D. <embed>
+A. `<track>`
+B. `<option>`
+C. `<source>`
+D. `<embed>`
 
 **Answer: C**
 
@@ -89,10 +89,10 @@ D. time-date
 **Answer: C**
 
 ## 12. Which HTML5 element is commonly used to draw graphics using JavaScript?
-A. <canvas>
-B. <svg-img>
-C. <paint>
-D. <graphic>
+A. `<canvas>`
+B. `<svg-img>`
+C. `<paint>`
+D. `<graphic>`
 
 **Answer: A**
 
