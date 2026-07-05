@@ -22,7 +22,7 @@ hr{
     margin: 35px 0;
 }
 
-/* ---------- Example 1 ---------- */
+/* Example 1 */
 
 .example1{
     position: relative;
@@ -53,7 +53,7 @@ hr{
     top: -132px;
 }
 
-/* ---------- Example 2 ---------- */
+/* Example 2 */
 
 .example2{
     display: flex;
